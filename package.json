@@ -1,0 +1,22 @@
+{
+  "name": "joe-ui-lib",
+  "version": "1.0.0",
+  "description": "Ching Chang Noodles",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nerijusgood/ui-lib-experiment.git"
+  },
+  "keywords": [
+    "Tomatoes"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerijusgood/ui-lib-experiment/issues"
+  },
+  "homepage": "https://github.com/nerijusgood/ui-lib-experiment#readme"
+}
